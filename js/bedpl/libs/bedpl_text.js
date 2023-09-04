@@ -1,6 +1,12 @@
-// **************************************************************
-// class BEDPL_text
-// **************************************************************
+// **************************************************************************************************
+// Description: class BEDPL_text
+// Version: 1-2023
+// Date create: 05-09-2023
+// Date update: 05-09-2023
+// Author: Pedro Martins
+// License: MIT
+// File: bedpl_text.js
+// **************************************************************************************************
 class BEDPL_text {
 
     id;
@@ -52,7 +58,7 @@ class BEDPL_text {
             prop_float(this.float, this.id);
 
         } else {
-            document.write("PL_TEXT_ERROR: Parent defined but not found. Parent must be defined first.");
+            document.write("BEDPL_TEXT_ERROR: Parent defined but not found. Parent must be defined first.");
         }
     }
 
