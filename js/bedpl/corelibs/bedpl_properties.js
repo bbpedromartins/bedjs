@@ -1,8 +1,8 @@
 // **************************************************************************************************
 // Description: BEDPL PROPERTIES
-// Version: 02-09-2023
-// Date create: 02-09-2023
-// Date update: 02-09-2023
+// Version: 1-2023
+// Date create: 05-09-2023
+// Date update: 05-09-2023
 // Author: Pedro Martins
 // License: MIT
 // File: pl_properties.js
