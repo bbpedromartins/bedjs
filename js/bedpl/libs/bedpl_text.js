@@ -1,8 +1,8 @@
 // **************************************************************************************************
 // Description: class BEDPL_text
 // Version: 1-2023
-// Date create: 05-09-2023
-// Date update: 05-09-2023
+// Date create: 04-09-2023
+// Date update: 04-09-2023
 // Author: Pedro Martins
 // License: MIT
 // File: bedpl_text.js
@@ -13,7 +13,7 @@ class BEDPL_text {
     parent_id;
     text = "text";
     color = "black";
-    position = "top-left";
+    location = "top-left";
     font_size = "20px";
     font_family = "consolas";
     font_weight = "normal";
@@ -45,7 +45,7 @@ class BEDPL_text {
             prop_font_family(this.font_family, this.id);
             prop_font_weight(this.font_weight, this.id);
 
-            prop_position(this.position, this.id);
+            prop_location(this.location, this.id);
 
             prop_padding_top(this.margin_top, this.id);
             prop_padding_bottom(this.margin_bottom, this.id);

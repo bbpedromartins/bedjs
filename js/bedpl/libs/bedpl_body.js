@@ -1,8 +1,8 @@
 // **************************************************************************************************
 // Description: class BEDPL_body
 // Version: 1-2023
-// Date create: 05-09-2023
-// Date update: 05-09-2023
+// Date create: 04-09-2023
+// Date update: 04-09-2023
 // Author: Pedro Martins
 // License: MIT
 // File: bedpl_body.js
