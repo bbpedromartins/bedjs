@@ -1,8 +1,8 @@
 // **************************************************************************************************
 // Description: BEDPL PROPERTIES
-// Version: 1-2023
-// Date create: 05-09-2023
-// Date update: 05-09-2023
+// Version: 02-09-2023
+// Date create: 02-09-2023
+// Date update: 02-09-2023
 // Author: Pedro Martins
 // License: MIT
 // File: pl_properties.js
@@ -2345,7 +2345,7 @@ function prop_pointer_events(pointer_events,id)
 function prop_position(position,id)
 {
   let position_element = document.getElementById(id);
-  position_element.style.position = position;
+  position_element.style.position = position; // static relative fixed absolute sticky
 }
 
 // **************************************************************************************************
