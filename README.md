@@ -1,3 +1,3 @@
-# bedpl.js
+# bedjs.js
 
-bedpl.js is a javascript programming library for building websites front-ends.
+bedjs.js is javascript library for building websites front-ends.
